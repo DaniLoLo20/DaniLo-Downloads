@@ -1,0 +1,132 @@
+.carousel-inner img {
+   margin: 20px;
+     }
+#JUmp{
+	margin: 25px;
+}
+
+.navbar{
+position: fixed;
+
+}
+
+
+/*seleccinar estilos: etiquta, id(#), class(.)*/
+
+/*font-family: 'Pacifico', cursive;*/
+
+#TodosBanner{
+    background: url(https://wallpaperhd.wiki/wp-content/uploads/crash-bandicoot-n-sane-trilogy-wallpaper-maxresdefault.jpg);
+    background-size: cover;
+    min-height: 630px;
+}
+
+#logo{
+    /*hacere logo XD*/
+}
+
+.bg-color{
+    background-color:rgba(0,0,0,0.1);
+    min-height: 630px;
+}
+
+.logo-name{
+    margin-top:130px;
+    color: #fff;
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+}
+#slogan{
+
+	color: #fff;
+}
+#subtitulo{
+    font-family: 'Pacifico', cursive;
+    font-size: 28px;
+}
+.header-h{
+    font-family: 'Pacifico', cursive;
+    color: #133913;
+    font-size: 38px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.tarjeta-texto{
+    font-family: 'Pacifico', cursive;
+}
+
+#acerca{
+   margin-top: 50px; 
+}
+
+.acerca-texto{
+    padding: 30px 100px 100px 100px;
+}
+
+#acerca-img{
+    background: url(https://wallpaperhd.wiki/wp-content/uploads/crash-bandicoot-n-sane-trilogy-wallpaper-maxresdefault.jpg);
+    background-size: cover;
+    min-height: 530px;
+}
+#logo{
+    margin: 0 10 px;
+    margin-top: 0px;
+    height: 30px;
+    width: 30px;
+}
+
+#elperron{
+	 background: url(https://tecnogaming.com/wp-content/uploads/2019/02/JumpForcePersonajes1.jpg);
+    background-size: cover;
+    min-height: 630px;
+    
+
+}
+#imagen:hover {
+-webkit-transform: rotateY(180deg);
+-webkit-transform-style: preserve-3d;
+transform: rotateY(180deg);
+transform-style: preserve-3d;}
+
+#Blur:hover{
+	filter: blur(5px);
+	-webkit-transform:scale(0.9);
+	transform:scale(0.9);
+	overflow:hidden;
+}
+#Video{
+	margin: 0;
+}
+video{
+	position: fixed;
+	min-width: 100%;
+	min-height: 100%;
+	top: 50%;
+	left: 50%;
+
+	transform: translateX(-50%) translateY(-50%);
+
+	z-index: -1;
+}
+
+header{
+    
+    background-size: cover;
+    min-height: 630px;
+}
+.form-consulta {max-width: 500px;  padding: 25px; font-family: 'Source Sans Pro', sans-serif;}
+.campo-form {width:100%; opacity: 0.; height:36px; margin:2px 0 6px; padding-left:6px; box-sizing: border-box; border-radius:3px; border:0; font-family: 'Source Sans Pro', sans-serif; font-size:1em;}
+label span {color: #f00}
+textarea {min-height: 150px!important;}
+.btn-form {display: inline-block;  border:0; background: #000; height: 46px; line-height: 46px; padding: 0 20px; border-radius: 6px; color:#fff; text-decoration: none; text-transform: uppercase; letter-spacing: 1px}
+.btn-form:hover {background: #444}
+
+#Centro{
+    margin-top: 150px;
+    margin-left:450px;
+    margin-right: auto;
+
+}
+
+#Textossss
+{color:#FFFFFF}
